@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andrew, an <a>IT Professional</a></h1>
+<h1>Hi, I'm Andrew, an <a>IT Specialist</a></h1>
 
 <h2> Information Technology Projects:</h2>
 
